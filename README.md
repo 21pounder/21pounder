@@ -1,25 +1,19 @@
-<h1 align="center">21pounder</h1>
+# Hi 👋, I'm 21pounder
 
-  <p align="center">
-    CS student @ Beijing Jiaotong University<br>
-    Building agents, backend systems, and practical software.<br>
-    Java · Rust · TypeScript · Python · Go
-  </p>
+### A college student from Beijing Jiaotong University, major in CS
 
-  <br>
+- 🔭 I'm currently working on **Beijing Yunji Technology Co., Ltd.**
 
-  <p align="center">
-    <a href="https://github.com/21pounder">
-      <img src="https://img.shields.io/badge/GitHub-21pounder-181717?style=flat-square&logo=github&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="mailto:younguepeng911@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-younguepeng911-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="mailto:youngyepeng911@qq.com">
-      <img src="https://img.shields.io/badge/QQ-youngyepeng911-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/WeChat-drizzy21pounder-07C160?style=flat-square&logo=wechat&logoColor=white" />
-  </p>
+- 🌱 I'm currently learning **SWE Agent and Web 3.0**
+
+- 📫 How to reach me **youngyepeng911@qq.com** or **younguepeng911@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/21pounder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="21pounder" height="30" width="40" /></a>
+<a href="https://twitter.com/21pounder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="21pounder" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
