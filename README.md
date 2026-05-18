@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Beijing Yunji Technology Co., Ltd.**
 
-- 🌱 I'm currently learning **SWE Agent and Web 3.0**
+- 🌱 I'm currently curious about **SWE Agent and Web 3.0**
 
 - 📫 How to reach me **youngyepeng911@qq.com**, **younguepeng911@gmail.com** or **[@21pounder](https://twitter.com/21pounder)**
 
