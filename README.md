@@ -6,6 +6,4 @@
 
 - 🌱 I'm currently curious about **SWE Agent and Web 3.0**
 
-- 📫 How to reach me **youngyepeng911@qq.com**, **younguepeng911@gmail.com** or **[@21pounder](https://twitter.com/21pounder)**
-
-
+- 📫 How to reach me **youngyepeng911@qq.com**, **younguepeng911@gmail.com**, Telegram **[@Zirakin888](https://t.me/Zirakin888)**, or **[@21pounder](https://twitter.com/21pounder)**
